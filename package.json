@@ -1,0 +1,23 @@
+{
+  "name": "appliances",
+  "version": "1.0.0",
+  "description": "js",
+  "main": "index.js",
+  "dependencies": {
+    "yargs": "^12.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitrybashlak/AppliancesJS.git"
+  },
+  "author": "dmitry.bashlak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitrybashlak/AppliancesJS/issues"
+  },
+  "homepage": "https://github.com/dmitrybashlak/AppliancesJS#readme"
+}
